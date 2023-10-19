@@ -24,7 +24,7 @@
 
 # Installation and Running:
 
-## <a name="install-guide"> Install guide </a>
+## <a name="install-guide">Install guide</a>
 
 Clone the repo -> Get in to the project folder -> Install Dependencies
 ```
@@ -37,7 +37,7 @@ cd Personal-Finance-Advisor-Solvd
 npm install
 ```
 
-## <a name="run-guide"> Run guide </a>
+## <a name="run-guide">Run guide</a>
 ```
 node index.js
 ```

@@ -14,7 +14,7 @@
     - [Run guide](#run-guide)
 
 
-## <a name="Technologies-overview"> Technologies overview </a>
+## Technologies overview 
 
 * Main - JavaScript
     - Node version - v20.7.0
@@ -24,7 +24,7 @@
 
 # Installation and Running:
 
-## Install guide <a name="install-guide"></a>
+## Install guide
 
 Clone the repo -> Get in to the project folder -> Install Dependencies
 ```
@@ -37,7 +37,7 @@ cd Personal-Finance-Advisor-Solvd
 npm install
 ```
 
-## Run guide <a name="run-guide"></a>
+## Run guide
 ```
 node index.js
 ```

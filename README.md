@@ -31,7 +31,7 @@ Here's Data you can provide to reach more percise result from my Finance Advisor
 * Salary - Monthly Income that we'll work with to give you an advice on managing them
 
 * Currency - Wise choise of currency affects the success of investments.
-* At least pay attention on: 
+ At least pay attention on: 
     - stability (market confidence in the external value of a currency)
     - liquidity (a currency pair's ability to be bought and sold without 
                  causing a significant change in its exchange rate)
@@ -39,7 +39,7 @@ Here's Data you can provide to reach more percise result from my Finance Advisor
                   among individuals, businesses, and governments)
 
 * Annual Interest Rate - Common practise is to divide Interest Rate
-* Expectations into three categories
+ Expectations into three categories
     - Conservative ( income < 5% )
     - Moderate ( 5% < income < 10% )
     - Aggressive ( income > 10% )

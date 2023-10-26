@@ -28,7 +28,7 @@
 
 Here's Data you can provide to reach more percise result from my Finance Advisor
 
-* Salary - Monthly Income that we'll work with to give you an advice on managing them
+* Salary - Monthly Income that we'll work with to give you an advice on how to manage Money
 
 * Currency - Wise choise of currency affects the success of investments.
  At least pay attention on: 

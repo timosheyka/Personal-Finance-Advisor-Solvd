@@ -49,9 +49,9 @@ Here's Data you can provide to reach more percise result from my Finance Advisor
 
 Here is the information that can be provided by Advisor
     
-* the maximum loan amount they can obtain
-* the repayment plan
-* the total interest paid over the loan term.
+* Maximum loan amount they can obtain
+* Repayment plan
+* Total interest paid over the loan term.
 
 ## Installation and Running:
 

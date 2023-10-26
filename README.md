@@ -32,11 +32,11 @@ Here's Data you can provide to reach more percise result from my Finance Advisor
 
 * Currency - Wise choise of currency affects the success of investments.
  At least pay attention on: 
-    - stability (market confidence in the external value of a currency)
-    - liquidity (a currency pair's ability to be bought and sold without 
-                 causing a significant change in its exchange rate)
-    - reputation (the level of trust and acceptance that a specific currency enjoys
-                  among individuals, businesses, and governments)
+    - stability ( market confidence in the external value of a currency )
+    - liquidity ( a currency pair's ability to be bought and sold without 
+                 causing a significant change in its exchange rate )
+    - reputation ( the level of trust and acceptance that a specific currency enjoys
+                  among individuals, businesses, and governments )
 
 * Annual Interest Rate - Common practise is to divide Interest Rate
  Expectations into three categories

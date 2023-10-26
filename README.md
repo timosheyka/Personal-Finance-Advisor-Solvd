@@ -47,7 +47,7 @@ Here's Data you can provide to reach more percise result from my Finance Advisor
 
 ## Output
 
-Here is the information that can be provided by Advisor
+Here is the valuable information that you can get by Advisor
     
 * Maximum loan amount they can obtain
 * Repayment plan

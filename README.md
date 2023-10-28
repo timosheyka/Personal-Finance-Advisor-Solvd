@@ -18,7 +18,7 @@
     - [Run guide](#run-guide)
 
 
-## Technologies overview 
+# Technologies overview 
 
 * Main - JavaScript
     - Node version - v20.7.0
@@ -72,9 +72,9 @@ to let us give you a wise advice you could be redirected to the page
 http://localhost:3000/{userId}/results
 ```
 
-## Installation and Running:
+# Installation and Running:
 
-# Install guide
+## Install guide
 
 Clone the repo -> Get in to the project folder -> Install Dependencies
 ```
@@ -87,7 +87,7 @@ cd Personal-Finance-Advisor-Solvd
 npm install
 ```
 
-# Run guide
+## Run guide
 ```
 node index.js
 ```

@@ -10,8 +10,10 @@
 
 1. [Technologies overview](#Technologies-overview)
 2. [Input Data](#input-data)
-3. [Output](#output)
-4. [Installation and Running](#installation-and-running)
+3. [Entrypoints](#entrypoints)
+4. [Output](#output)
+5. [Endpoints](#endpoints)
+6. [Installation and Running](#installation-and-running)
     - [Install guide](#install-guide)
     - [Run guide](#run-guide)
 
@@ -44,6 +46,13 @@ Here's Data you can provide to reach more percise result from my Finance Advisor
     - Moderate ( 5% < income < 10% )
     - Aggressive ( income > 10% )
 
+## Entrypoints
+
+    Here you login page where you should provide ```username``` and ```password```
+    to get access to Advisor tools
+
+    ```http://localhost:3000/```
+
 
 ## Output
 
@@ -53,9 +62,15 @@ Here is the valuable information that you can get by Advisor
 * Repayment plan
 * Total interest paid over the loan term.
 
+## Endpoints
+
+    After you successfully logged in to the service and provided your data
+    to let us give you a wise advice you could be redirected to the page
+    ```http://localhost:3000/{userId}/results```
+
 ## Installation and Running:
 
-## Install guide
+# Install guide
 
 Clone the repo -> Get in to the project folder -> Install Dependencies
 ```
@@ -68,7 +83,7 @@ cd Personal-Finance-Advisor-Solvd
 npm install
 ```
 
-## Run guide
+# Run guide
 ```
 node index.js
 ```

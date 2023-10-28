@@ -10,10 +10,10 @@
 
 1. [Technologies overview](#Technologies-overview)
 2. [Input Data](#input-data)
-3. [Entrypoints](#entrypoints)
-4. [Output](#output)
-5. [Endpoints](#endpoints)
-6. [Installation and Running](#installation-and-running)
+    - [Entrypoints](#entrypoints)
+3. [Output](#output)
+    - [Endpoints](#endpoints)
+4. [Installation and Running](#installation-and-running)
     - [Install guide](#install-guide)
     - [Run guide](#run-guide)
 

@@ -48,10 +48,12 @@ Here's Data you can provide to reach more percise result from my Finance Advisor
 
 ## Entrypoints
 
-    Here you login page where you should provide ```username``` and ```password```
-    to get access to Advisor tools
+Here you login page where you should provide ```username``` and ```password```
+to get access to Advisor tools
 
-    ```http://localhost:3000/```
+```
+http://localhost:3000/
+```
 
 
 ## Output
@@ -64,9 +66,11 @@ Here is the valuable information that you can get by Advisor
 
 ## Endpoints
 
-    After you successfully logged in to the service and provided your data
-    to let us give you a wise advice you could be redirected to the page
-    ```http://localhost:3000/{userId}/results```
+After you successfully logged in to the service and provided your data
+to let us give you a wise advice you could be redirected to the page
+```
+http://localhost:3000/{userId}/results
+```
 
 ## Installation and Running:
 

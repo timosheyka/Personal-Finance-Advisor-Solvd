@@ -46,7 +46,7 @@ Here's Data you can provide to reach more percise result from my Finance Advisor
     - Moderate ( 5% < income < 10% )
     - Aggressive ( income > 10% )
 
-## Entrypoints
+# Entrypoints
 
 Here you login page where you should provide ```username``` and ```password```
 to get access to Advisor tools
@@ -64,7 +64,7 @@ Here is the valuable information that you can get by Advisor
 * Repayment plan
 * Total interest paid over the loan term.
 
-## Endpoints
+# Endpoints
 
 After you successfully logged in to the service and provided your data
 to let us give you a wise advice you could be redirected to the page

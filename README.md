@@ -55,6 +55,9 @@ to get access to Advisor tools
 http://localhost:3000/
 ```
 
+# Data Base Scheme
+
+![DataBaseScheme](db_scheme.png)
 
 # Output
 

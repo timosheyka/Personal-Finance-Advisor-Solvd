@@ -11,9 +11,10 @@
 1. [Technologies overview](#Technologies-overview)
 2. [Input Data](#input-data)
     - [Entrypoints](#entrypoints)
-3. [Output](#output)
+3. [DataBaseScheme](#data-base-scheme)
+4. [Output](#output)
     - [Endpoints](#endpoints)
-4. [Installation and Running](#installation-and-running)
+5. [Installation and Running](#installation-and-running)
     - [Install guide](#install-guide)
     - [Run guide](#run-guide)
 

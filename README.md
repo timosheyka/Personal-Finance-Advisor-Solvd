@@ -57,7 +57,7 @@ http://localhost:3000/
 
 # Data Base Scheme
 
-[DataBaseScheme](./db_scheme.png)
+![DataBaseScheme](./db_scheme.png)
 
 # Output
 

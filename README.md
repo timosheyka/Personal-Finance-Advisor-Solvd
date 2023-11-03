@@ -74,7 +74,7 @@ Here is an ```Assistant``` that analyse and try to predict the tomorrows ```Shar
  - Average
  - Random 
 ```
-http://localhost:3000/assistent
+http://localhost:3000/assistant
 ```
 
 REST API methods:
@@ -83,7 +83,7 @@ REST API methods:
 
 ### User
 This is ```User```. The main character in our application.
-He has own ```Assistent``` to rely on. Based on ```Assistent``` advice
+He has own ```Assistant``` to rely on. Based on ```Assistant``` advice
 ```User``` make a decision whether to BUY or SELL some ```Shares```.
 ```
 http://localhost:3000/user
